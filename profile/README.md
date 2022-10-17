@@ -10,5 +10,6 @@ author: HakHyeon Song
 - 약간의 Frontend (HTML, CSS, Vanila JS)
 - Java Build Tool (Gradle, Maven)
 - Spring Core (IoC, DI, AOP)
+- Java Network Programming
 
-lastUpdatedAt: 2022.10.11
+lastUpdatedAt: 2022.10.17
