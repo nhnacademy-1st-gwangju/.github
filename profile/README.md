@@ -11,5 +11,6 @@ author: HakHyeon Song
 - Java Build Tool (Gradle, Maven)
 - Spring Core (IoC, DI, AOP)
 - Java Network Programming
+- Java Web/Servlet
 
-lastUpdatedAt: 2022.10.17
+lastUpdatedAt: 2022.10.24
