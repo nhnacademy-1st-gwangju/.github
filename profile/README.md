@@ -12,5 +12,6 @@ author: HakHyeon Song
 - Spring Core (IoC, DI, AOP)
 - Java Network Programming
 - Java Web/Servlet
+- TDD/Clean Code
 
-lastUpdatedAt: 2022.10.24
+lastUpdatedAt: 2022.10.31
