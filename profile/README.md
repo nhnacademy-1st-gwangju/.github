@@ -14,5 +14,6 @@ author: HakHyeon Song
 - Java Web/Servlet
 - TDD/Clean Code
 - Spring MVC
+- Spring Data
 
-lastUpdatedAt: 2022.11.17
+lastUpdatedAt: 2022.11.22
