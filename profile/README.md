@@ -15,5 +15,6 @@ author: HakHyeon Song
 - TDD/Clean Code
 - Spring MVC
 - Spring Data
+- Spring Security
 
-lastUpdatedAt: 2022.11.22
+lastUpdatedAt: 2022.12.05
