@@ -16,5 +16,6 @@ author: HakHyeon Song
 - Spring MVC
 - Spring Data
 - Spring Security
+- Spring Boot
 
-lastUpdatedAt: 2022.12.05
+lastUpdatedAt: 2022.12.12
