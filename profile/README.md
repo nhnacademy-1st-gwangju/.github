@@ -4,7 +4,8 @@ NHN Academy Java 백엔드 2기(광주 1기)에서 개인적으로 기록하는 
 
 <a href=https://github.com/NHN-YesAladin>프로젝트 인증 과정: 2022.12.26 ~ 2023.03.03</a>
 
-일부 Repository는 Private 입니다.
+모든 Repository는 Private로 변경합니다.  
+(과제를 복붙하는 사람들이 있네요?? - 2024.01.22)
 
 author: HakHyeon Song
 
