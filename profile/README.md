@@ -1,25 +1,11 @@
 # 📌 Info
-NHN Academy Java 백엔드 2기(광주 1기)에서 개인적으로 기록하는 수업 내용 정리와 제출했던 과제들을 관리하기 위한 공간입니다.  
-(Java 백엔드 개발과정: 2022.08.29 ~ 2022.12.16)
+NHN Academy 백엔드 과정에서 제가 혼자 고민하고 수행했던 모든 과제들과 수업내용 정리 기록물을 신입 개발자로 지원하던 시절 제 이력서에 첨부하여 사용했는데,
+이 과제물과 자료들을 그대로 복붙해서 제출한다는 제보를 받았습니다. 부끄러운 줄 아세요^^;
 
-<a href=https://github.com/NHN-YesAladin>프로젝트 인증 과정: 2022.12.26 ~ 2023.03.03</a>
+한 가지 과제 뿐만이 아니라 지난 과제들도 사용했다는 것을 모두 확인했습니다. 실명 거론 안하겠습니다.
 
-모든 Repository는 Private로 변경합니다.  
-(과제를 복붙하는 사람들이 있네요?? - 2024.01.22)
+기존 모든 Repository는 Private로 변경했습니다.
 
 author: HakHyeon Song
 
-## 내용물
-- Java TIP(Theory Into Practice)
-- 약간의 Frontend (HTML, CSS, Vanila JS)
-- Java Build Tool (Gradle, Maven)
-- Spring Core (IoC, DI, AOP)
-- Java Network Programming
-- Java Web/Servlet
-- TDD/Clean Code
-- Spring MVC
-- Spring Data
-- Spring Security
-- Spring Boot
-
-lastUpdatedAt: 2022.12.12
+updatedAt: 2024.01.22
